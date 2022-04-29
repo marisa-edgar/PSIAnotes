@@ -8,4 +8,5 @@ API - `https://github.com/marisa-edgar/PSIA-API`
 * 11:15: Setup basic API/ Ensure the call is working
 * 12:03: Debugging API node issues
 * 12:18: Lunch
-* 12:40: Back from lunch
+* 1:40: Back from lunch
+* 2:48: research C# API with REACT TS UI
