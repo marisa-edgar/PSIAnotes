@@ -6,3 +6,4 @@
 * 10:30: Send emails to Winter Reunion, Street roots, and 211 API team
 API - `https://github.com/marisa-edgar/PSIA-API`
 * 11:15: Setup basic API/ Ensure the call is working
+* 12:03: Debugging API node issues
