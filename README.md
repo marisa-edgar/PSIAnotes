@@ -11,3 +11,4 @@ API - `https://github.com/marisa-edgar/PSIA-API`
 * 1:40: Back from lunch
 * 2:48: research C# API with REACT TS UI
 * 3:33: Building C# API reinstalling mySQL
+* 4:31: WIP API
