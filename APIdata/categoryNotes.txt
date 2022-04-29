@@ -1,0 +1,17 @@
+//resource by category
+1. Crisis Hotlines
+    - 
+2. Housing & Shelter
+3. Mental Health
+4. Children/Teens
+5. Diverse Populations
+6. Employment
+7. Food 
+8. Education
+9. Utility Assistance
+10. Legal Assistance
+11. Transportation
+12. Basic Needs
+13. Healthcare
+14. Covid-19
+
