@@ -15,3 +15,4 @@ API - `https://github.com/marisa-edgar/PSIA.Solution`
 * 4:57: Finally have a built API and successful call
 * 5:47: Finished Proposal 
 * 6:16: Create TypeScript Repo
+`https://github.com/marisa-edgar/portland-solidarity-app`
